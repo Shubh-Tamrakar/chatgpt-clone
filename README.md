@@ -20,6 +20,9 @@ This project is a custom ChatGPT-like conversational AI app, designed with a foc
 - **Frontend:** HTML, CSS, JavaScript (Vanilla or React – whichever you used)
 - **Backend/API Integration:** Gemini API (Google Generative AI)
 - **UX Enhancements:** Custom UX Assistant logic (via tooltips, guidance modals, or step-based interaction)
+-  I hosted this on vercel
+-  
+---use can use this-
 
----
+ https://chatgpt-clone-five-smoky.vercel.app/
 
